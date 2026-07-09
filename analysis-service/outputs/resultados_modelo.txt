@@ -1,0 +1,14 @@
+=== REPORTE DEL MODELO DE ARBOL DE DECISION ===
+
+Accuracy: 0.6733
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+        ALTO       0.58      0.19      0.29        36
+        BAJO       0.64      0.39      0.48        18
+       MEDIO       0.69      0.91      0.78        96
+
+    accuracy                           0.67       150
+   macro avg       0.63      0.50      0.52       150
+weighted avg       0.65      0.67      0.63       150
